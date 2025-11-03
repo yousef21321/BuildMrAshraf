@@ -1,0 +1,6 @@
+/* 📱 إخفاء الـ Head على الموبايل */
+@media screen and (max-width: 768px) {
+  .head {
+    display: none;
+  }
+}

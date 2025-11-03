@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.744b944b.css",
-    "main.js": "/static/js/main.0282220f.js",
+    "main.css": "/static/css/main.86680124.css",
+    "main.js": "/static/js/main.1db6100e.js",
     "static/js/213.2c66a798.chunk.js": "/static/js/213.2c66a798.chunk.js",
     "static/js/732.a1e6e011.chunk.js": "/static/js/732.a1e6e011.chunk.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
@@ -21,21 +21,24 @@
     "static/media/77.jpg": "/static/media/77.dfbaf16ed82de50e0d20.jpg",
     "static/media/44.jpg": "/static/media/44.82efb46e886a73d0212f.jpg",
     "static/media/55.jpg": "/static/media/55.98e7646fe39e30e9baa0.jpg",
+    "static/media/awrapper.webp": "/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg2.jpg": "/static/media/bg2.04b9280b539a668aaed6.jpg",
     "static/media/Logo.png": "/static/media/Logo.7c20426671f0eda39ede.png",
+    "static/media/BG.jpg": "/static/media/BG.1991d50e88536b397931.jpg",
     "static/media/social-icons-white-instagram.svg": "/static/media/social-icons-white-instagram.fe7360ac814834195ad687231fc56825.svg",
     "static/media/social-icons-white-dribbble.svg": "/static/media/social-icons-white-dribbble.8385e235e20b7c8461bf9af7cf8a6f08.svg",
     "index.html": "/index.html",
     "static/media/social-icons-white-twitter.svg": "/static/media/social-icons-white-twitter.7cddad0d203c9096aa3ae9e75f527321.svg",
     "static/media/social-icons-white-youtube.svg": "/static/media/social-icons-white-youtube.6b5b6f110785cacf95cf6736c9cf3e06.svg",
     "static/media/facebook.svg": "/static/media/facebook.f02f887fbddb2ed06ecc548409dd81b1.svg",
-    "main.744b944b.css.map": "/static/css/main.744b944b.css.map",
-    "main.0282220f.js.map": "/static/js/main.0282220f.js.map",
+    "main.86680124.css.map": "/static/css/main.86680124.css.map",
+    "main.1db6100e.js.map": "/static/js/main.1db6100e.js.map",
     "213.2c66a798.chunk.js.map": "/static/js/213.2c66a798.chunk.js.map",
     "732.a1e6e011.chunk.js.map": "/static/js/732.a1e6e011.chunk.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.744b944b.css",
-    "static/js/main.0282220f.js"
+    "static/css/main.86680124.css",
+    "static/js/main.1db6100e.js"
   ]
 }
