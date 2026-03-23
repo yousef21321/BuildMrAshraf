@@ -10,12 +10,12 @@ const AboutCard = () => {
         <div className="container flexSB">
 
           <div className="left row">
-                      <br/>         
-          <br/>
-          <br/>         
-          <br/>
-          <br/>         
-          <br/>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
 
             <div className="video-container">
               <iframe
@@ -34,7 +34,7 @@ const AboutCard = () => {
           <div className="right row">
             <Heading
               subtitle="انطلق في رحلة نحو التفوق في امتحانات الثانوية العامة مع دروس تفاعلية ومراجعات مركزة."
-              title="مميزات التعلم مع م/ أشرف عابد"
+              title="مميزات التعلم مع Edu Masr"
             />
 
             <div className="items">
