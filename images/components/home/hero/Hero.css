@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/BG.jpg");
+  background-image: url("../../../../public/images/BGN.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
@@ -12,9 +12,11 @@
   padding-right: 50px;
   color: #000000;
 }
+
 .hero #heading h3 {
   color: #fff;
 }
+
 .hero #heading {
   text-align: left;
   margin: 0;
@@ -79,9 +81,11 @@
     transform: translateY(100vh) rotate(0deg);
     opacity: 0;
   }
+
   20% {
     opacity: 1;
   }
+
   100% {
     transform: translateY(-10vh) rotate(360deg);
     opacity: 0;
@@ -89,12 +93,40 @@
 }
 
 /* أماكن عشوائية */
-.book:nth-child(1) { left: 10%; animation-delay: 0s; }
-.letter:nth-child(2) { left: 30%; animation-delay: 2s; color: #ff595e; }
-.letter:nth-child(3) { left: 50%; animation-delay: 4s; color: #8ac926; }
-.letter:nth-child(4) { left: 70%; animation-delay: 1s; color: #1982c4; }
-.letter:nth-child(5) { left: 85%; animation-delay: 3s; color: #ffca3a; }
-.letter:nth-child(6) { left: 20%; animation-delay: 5s; color: #6a4c93; }
+.book:nth-child(1) {
+  left: 10%;
+  animation-delay: 0s;
+}
+
+.letter:nth-child(2) {
+  left: 30%;
+  animation-delay: 2s;
+  color: #ff595e;
+}
+
+.letter:nth-child(3) {
+  left: 50%;
+  animation-delay: 4s;
+  color: #8ac926;
+}
+
+.letter:nth-child(4) {
+  left: 70%;
+  animation-delay: 1s;
+  color: #1982c4;
+}
+
+.letter:nth-child(5) {
+  left: 85%;
+  animation-delay: 3s;
+  color: #ffca3a;
+}
+
+.letter:nth-child(6) {
+  left: 20%;
+  animation-delay: 5s;
+  color: #6a4c93;
+}
 
 /* 📱 تصميم الموبايل */
 @media screen and (max-width: 768px) {
@@ -146,7 +178,8 @@
   .flying-elements .book,
   .flying-elements .letter {
     font-size: 2rem;
-    animation-duration: 16s; /* حركة أبطأ على الهاتف */
+    animation-duration: 16s;
+    /* حركة أبطأ على الهاتف */
   }
 }
 
