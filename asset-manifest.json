@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2da80d4f.css",
-    "main.js": "/static/js/main.a6099971.js",
+    "main.css": "/static/css/main.a346b09b.css",
+    "main.js": "/static/js/main.6d2b32f9.js",
     "static/js/760.14e84b85.chunk.js": "/static/js/760.14e84b85.chunk.js",
     "static/js/265.77bb7b7b.chunk.js": "/static/js/265.77bb7b7b.chunk.js",
     "static/js/206.628223f5.chunk.js": "/static/js/206.628223f5.chunk.js",
     "static/media/Mero2.png": "/static/media/Mero2.0b9c787d30918d313176.png",
     "static/media/Mero.png": "/static/media/Mero.ab17a69f212ec16a8e72.png",
-    "static/media/Hero.png": "/static/media/Hero.d5bb6b71ed6e6303396b.png",
-    "static/media/Mero3.png": "/static/media/Mero3.6c265f5da0af233f105b.png",
-    "static/media/Mero4.png": "/static/media/Mero4.41c4b88bd2e2981d6763.png",
-    "static/media/bg2.jpg": "/static/media/bg2.04b9280b539a668aaed6.jpg",
+    "static/media/Mero44.png": "/static/media/Mero44.c19df3e31240c564ea1d.png",
+    "static/media/Mero33.png": "/static/media/Mero33.f8f0334709b18bfa726f.png",
     "static/media/popo.mp3": "/static/media/popo.e0dbf4db180a7306e646.mp3",
     "static/media/Logo.png": "/static/media/Logo.7c20426671f0eda39ede.png",
     "static/media/BG.jpg": "/static/media/BG.1a0d07ddc27069b39c7d.jpg",
@@ -22,7 +20,7 @@
     "static/media/facebook.svg": "/static/media/facebook.f02f887fbddb2ed06ecc548409dd81b1.svg"
   },
   "entrypoints": [
-    "static/css/main.2da80d4f.css",
-    "static/js/main.a6099971.js"
+    "static/css/main.a346b09b.css",
+    "static/js/main.6d2b32f9.js"
   ]
 }
