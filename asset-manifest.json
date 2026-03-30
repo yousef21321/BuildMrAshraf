@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.294f9cbf.css",
-    "main.js": "/static/js/main.cc1e411d.js",
+    "main.css": "/static/css/main.ca9b1e97.css",
+    "main.js": "/static/js/main.497b1659.js",
     "static/js/213.9873d119.chunk.js": "/static/js/213.9873d119.chunk.js",
     "static/js/732.be7fbf8b.chunk.js": "/static/js/732.be7fbf8b.chunk.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
-    "static/media/Hero2.png": "/static/media/Hero2.af21d978dc760dc5c50e.png",
+    "static/media/Mero2.png": "/static/media/Mero2.0b9c787d30918d313176.png",
+    "static/media/Mero.png": "/static/media/Mero.ab17a69f212ec16a8e72.png",
     "static/media/Hero.png": "/static/media/Hero.d5bb6b71ed6e6303396b.png",
-    "static/media/Hero4.png": "/static/media/Hero4.d759c1663f2ec06cff4b.png",
-    "static/media/Hero3.png": "/static/media/Hero3.f9acef97fa9af67a2d00.png",
+    "static/media/Mero3.png": "/static/media/Mero3.6c265f5da0af233f105b.png",
+    "static/media/Mero4.png": "/static/media/Mero4.41c4b88bd2e2981d6763.png",
     "static/media/bg2.jpg": "/static/media/bg2.04b9280b539a668aaed6.jpg",
     "static/media/popo.mp3": "/static/media/popo.e0dbf4db180a7306e646.mp3",
     "static/media/Logo.png": "/static/media/Logo.7c20426671f0eda39ede.png",
@@ -19,14 +20,14 @@
     "static/media/social-icons-white-twitter.svg": "/static/media/social-icons-white-twitter.7cddad0d203c9096aa3ae9e75f527321.svg",
     "static/media/social-icons-white-youtube.svg": "/static/media/social-icons-white-youtube.6b5b6f110785cacf95cf6736c9cf3e06.svg",
     "static/media/facebook.svg": "/static/media/facebook.f02f887fbddb2ed06ecc548409dd81b1.svg",
-    "main.294f9cbf.css.map": "/static/css/main.294f9cbf.css.map",
-    "main.cc1e411d.js.map": "/static/js/main.cc1e411d.js.map",
+    "main.ca9b1e97.css.map": "/static/css/main.ca9b1e97.css.map",
+    "main.497b1659.js.map": "/static/js/main.497b1659.js.map",
     "213.9873d119.chunk.js.map": "/static/js/213.9873d119.chunk.js.map",
     "732.be7fbf8b.chunk.js.map": "/static/js/732.be7fbf8b.chunk.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.294f9cbf.css",
-    "static/js/main.cc1e411d.js"
+    "static/css/main.ca9b1e97.css",
+    "static/js/main.497b1659.js"
   ]
 }
